@@ -1,4 +1,4 @@
-Please,see this notebook on Colab(better graph vizualization):
+Please,see this notebook on Colab(better graph visualization):
 https://colab.research.google.com/github/EronDS/DataScience/blob/main/DecisionTree%26LogisticRegression/Heart%20Disease%20Classifier/HeartDiseaseClfDecisionTree%26LogisticRegression.ipynb
 
 
