@@ -1,3 +1,9 @@
+Please see this notebook on Google Colab(better graph visualization):
+https://colab.research.google.com/github/EronDS/DataScience/blob/main/DecisionTree%26RandomForest/Income%20Classifier%20USA/IncomeClassifierUSA.ipynb
+
+
+
+
 Referring to 'IncomeClassifierUSA' notebook:
 
 The dataset used in this project was the "Adult Data Set" present and available in the UCI Machine Learning Repository:
